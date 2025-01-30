@@ -1,7 +1,4 @@
 ﻿
-using System.Diagnostics.Contracts;
-using System.Runtime.InteropServices;
-
 namespace InterfazQ12025
 {
     public class Operacion : IOperacion, IArea
